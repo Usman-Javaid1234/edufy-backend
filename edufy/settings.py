@@ -22,6 +22,9 @@ INSTALLED_APPS = [
     "corsheaders",
     # local
     "accounts",
+    "courses",
+    "assignments",
+    "grading",
 ]
 
 MIDDLEWARE = [
